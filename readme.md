@@ -1,3 +1,4 @@
+![alt text](diagram.png)
 # Project Overview
 
 This is a sample project developed using .NET 8. It serves as an example and is not intended for production use. The project demonstrates basic API operations such as retrieving, updating, and deleting employee data. It utilizes IdentityServer4 for authentication and authorization, allowing a client application to access the API securely.
